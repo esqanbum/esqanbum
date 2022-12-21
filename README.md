@@ -12,6 +12,11 @@
 
 ## Glad to see you here! &nbsp;
 
+
+I am a student of the Ukrainian software development academy "Go IT". I love programming, reading, writing and speaking.
+
+- 📬 How to reach me: [vladyslavchulii@gmail.com](mailto:vladyslavchulii@gmail.com)
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
